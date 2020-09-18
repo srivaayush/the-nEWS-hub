@@ -41,11 +41,12 @@ class _HomeState extends State<Home> {
         title: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text("Srivas"),
+            Text("The"),
             Text(
-              "News",
+              "nEWS",
               style: TextStyle(color: Colors.blue),
-            )
+            ),
+            Text("Hub"),
           ],
         ),
         centerTitle: true,
