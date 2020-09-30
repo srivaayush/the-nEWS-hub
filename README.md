@@ -1,6 +1,7 @@
 # The nEWS Hub
 
 A new Flutter application to stay in touch with all that's going around India.
+A news api is used in the app. App can be published to playstore using a different api.
 
 ## Getting Started
 
