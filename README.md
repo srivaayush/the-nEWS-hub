@@ -1,6 +1,6 @@
 # The nEWS Hub
 
-A new Flutter application to stay in touch with all that's going around India.
+A new Flutter application to stay in touch with all that's going around in India and across the globe.
 
 ## Getting Started
 
