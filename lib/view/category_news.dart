@@ -11,7 +11,7 @@ class CategoryNews extends StatefulWidget {
 }
 
 class _CategoryNewsState extends State<CategoryNews> {
-  List<ArticleModel> articles = new List<ArticleModel>();
+  List<ArticleModel> articles = [];
   bool _loading = true;
   @override
   void initState() {

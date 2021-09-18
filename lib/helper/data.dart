@@ -1,7 +1,7 @@
 import 'package:news/models/category_model.dart';
 
 List<CategoryModel> getCategories() {
-  List<CategoryModel> category = new List<CategoryModel>();
+  List<CategoryModel> category = [];
   CategoryModel categoryModel = new CategoryModel();
 
   //1
